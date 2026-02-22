@@ -1,0 +1,16 @@
+{
+    "name": "com.zgx197.nodegraph.core",
+    "rootNamespace": "NodeGraph.Core",
+    "references": [
+        "com.zgx197.nodegraph.math"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

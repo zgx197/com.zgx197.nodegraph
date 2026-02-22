@@ -1,0 +1,21 @@
+{
+  "name": "com.zgx197.nodegraph",
+  "version": "0.1.0",
+  "displayName": "NodeGraph",
+  "description": "A lightweight, engine-agnostic node graph framework for Unity. Provides undo/redo command system, subgraph, serialization and cross-engine view layer.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/zgx197/com.zgx197.nodegraph#readme",
+  "changelogUrl": "https://github.com/zgx197/com.zgx197.nodegraph/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/zgx197/com.zgx197.nodegraph/blob/main/LICENSE",
+  "dependencies": {},
+  "keywords": [
+    "node-graph",
+    "blueprint",
+    "command-pattern",
+    "editor-tool"
+  ],
+  "author": {
+    "name": "ZhangGuoxin",
+    "url": "https://github.com/zgx197"
+  }
+}

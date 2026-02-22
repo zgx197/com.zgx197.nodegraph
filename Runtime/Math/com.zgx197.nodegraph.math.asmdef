@@ -1,0 +1,14 @@
+{
+    "name": "com.zgx197.nodegraph.math",
+    "rootNamespace": "NodeGraph.Math",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

@@ -1,0 +1,17 @@
+{
+    "name": "com.zgx197.nodegraph.abstraction",
+    "rootNamespace": "NodeGraph.Abstraction",
+    "references": [
+        "com.zgx197.nodegraph.math",
+        "com.zgx197.nodegraph.core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

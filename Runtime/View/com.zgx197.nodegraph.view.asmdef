@@ -1,0 +1,20 @@
+{
+    "name": "com.zgx197.nodegraph.view",
+    "rootNamespace": "NodeGraph.View",
+    "references": [
+        "com.zgx197.nodegraph.math",
+        "com.zgx197.nodegraph.core",
+        "com.zgx197.nodegraph.commands",
+        "com.zgx197.nodegraph.abstraction",
+        "com.zgx197.nodegraph.layout"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

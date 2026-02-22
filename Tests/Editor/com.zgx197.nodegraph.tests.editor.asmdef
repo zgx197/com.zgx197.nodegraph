@@ -1,0 +1,25 @@
+{
+    "name": "com.zgx197.nodegraph.tests.editor",
+    "rootNamespace": "",
+    "references": [
+        "com.zgx197.nodegraph.math",
+        "com.zgx197.nodegraph.core",
+        "com.zgx197.nodegraph.commands",
+        "com.zgx197.nodegraph.abstraction",
+        "com.zgx197.nodegraph.view",
+        "com.zgx197.nodegraph.serialization",
+        "com.zgx197.nodegraph.layout",
+        "com.zgx197.nodegraph.editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
